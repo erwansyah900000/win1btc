@@ -1,0 +1,2 @@
+# win1btc
+Miner
